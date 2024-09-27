@@ -153,10 +153,11 @@ a{
 .nav-links a:hover {
     color: #e9718b;
     text-decoration: 2px underline;
+    background-color: white;
 <<<<<<< HEAD
     background-color: white;
 =======
-    background-color: #fff;
+    
 >>>>>>> 17b5f99321959eb40d4e5342b6d7bfeedb36cf6a
 }
 

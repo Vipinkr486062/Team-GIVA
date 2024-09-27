@@ -147,16 +147,13 @@ a{
     font-size: 16px;
     padding: 10px 15px;
     transition: color 0.3s ease;
+    background-color: white;
 }
 
 .nav-links a:hover {
     color: #e9718b;
     text-decoration: 2px underline;
-<<<<<<< HEAD
     background-color: white;
-=======
-    background-color: #fff;
->>>>>>> 17b5f99321959eb40d4e5342b6d7bfeedb36cf6a
 }
 
 .dropdown {
@@ -187,7 +184,7 @@ a{
 
 .dropdown a:hover {
     color: #e9718b;
-    /* background-color: #f1f1f1; */
+    background-color: #f1f1f1; 
 }
 
 /* Nested dropdown (submenu) */
@@ -220,6 +217,8 @@ a{
     text-decoration: underline;
     color: rgb(90, 86, 86);
 }
+ 
+
 
 
 @media (max-width: 1024px) {
